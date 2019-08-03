@@ -1,2 +1,2 @@
 # Gobang
-University's first java project
+💩 My university's first java project.
